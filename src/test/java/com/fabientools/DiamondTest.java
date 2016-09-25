@@ -29,7 +29,6 @@ public class DiamondTest {
     }
 
     @Test
-    @Ignore
     public void testDiamond3() {
         StringBuffer expected = new StringBuffer();
         expected.append(" *\n");
@@ -40,7 +39,6 @@ public class DiamondTest {
     }
 
     @Test
-    @Ignore
     public void testDiamond5() {
         StringBuffer expected = new StringBuffer();
         expected.append("  *\n");
